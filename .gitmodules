@@ -1,3 +1,15 @@
 [submodule "Predator-Prey-Ideation"]
 	path = Predator-Prey-Ideation
 	url = https://github.com/BlockScience/Predator-Prey-Ideation.git
+[submodule "Predator-Prey-Tutorial"]
+	path = Predator-Prey-Tutorial
+	url = https://github.com/BlockScience/Predator-Prey-Tutorial.git
+[submodule "Predator-Prey-MSML"]
+	path = Predator-Prey-MSML
+	url = https://github.com/BlockScience/Predator-Prey-MSML.git
+[submodule "Predator-Prey-cadCAD"]
+	path = Predator-Prey-cadCAD
+	url = https://github.com/BlockScience/Predator-Prey-cadCAD.git
+[submodule "Predator-Prey-PSuU"]
+	path = Predator-Prey-PSuU
+	url = https://github.com/BlockScience/Predator-Prey-PSuU.git
